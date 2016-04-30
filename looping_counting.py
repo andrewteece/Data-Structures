@@ -1,5 +1,3 @@
-#Looping and Counting
-
 word = 'banana'
 count = 0
 for letter in word:
